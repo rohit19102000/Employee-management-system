@@ -6,7 +6,6 @@ import { AuthContext } from './Context/AuthProvider'
 
 
 const App = () => {
-
   const [user, setUser] = useState(null)
   const [loggedInUserData, setLoggedInUserData] = useState(null)
 
